@@ -1,0 +1,157 @@
+{
+  "generated": "2026-10-23T13:56:52.367085+03:00",
+  "weather": {
+    "current": {
+      "time": "2026-10-23T13:45",
+      "interval": 900,
+      "temperature_2m": 34.1,
+      "relative_humidity_2m": 54,
+      "apparent_temperature": 39.1,
+      "is_day": 1,
+      "weather_code": 0,
+      "wind_speed_10m": 10.5
+    },
+    "updated": "2026-10-23T13:56:52.367085+03:00"
+  },
+  "prayer": {
+    "date": "2026-10-23",
+    "timings": {
+      "Fajr": "05:05",
+      "Sunrise": "06:22",
+      "Dhuhr": "12:08",
+      "Asr": "15:27",
+      "Sunset": "17:53",
+      "Maghrib": "17:53",
+      "Isha": "19:23",
+      "Imsak": "04:55",
+      "Midnight": "00:07",
+      "Firstthird": "22:03",
+      "Lastthird": "02:12"
+    },
+    "tomorrowDate": "2026-10-24",
+    "tomorrowFajr": "05:06",
+    "updated": "2026-10-23T13:56:52.367085+03:00"
+  },
+  "matches": {
+    "date": "2026-10-23",
+    "items": [
+      {
+        "id": "401900444",
+        "date": "2026-10-23T13:30Z",
+        "home": "الفيصلي",
+        "away": "النصر",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "السعودي"
+      },
+      {
+        "id": "401900890",
+        "date": "2026-10-23T15:30Z",
+        "home": "الاتحاد",
+        "away": "الدرعية",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "السعودي"
+      },
+      {
+        "id": "401900892",
+        "date": "2026-10-23T18:00Z",
+        "home": "الأهلي",
+        "away": "الخليج",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "السعودي"
+      },
+      {
+        "id": "401900888",
+        "date": "2026-10-23T18:00Z",
+        "home": "القادسية",
+        "away": "الهلال",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "السعودي"
+      },
+      {
+        "id": "401879253",
+        "date": "2026-10-23T19:00Z",
+        "home": "إيبسويتش تاون",
+        "away": "نوتنغهام فورست",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "الإنجليزي"
+      },
+      {
+        "id": "401882836",
+        "date": "2026-10-23T19:00Z",
+        "home": "ألافيس",
+        "away": "ملقا",
+        "homeScore": "0",
+        "awayScore": "0",
+        "state": "pre",
+        "league": "الإسباني"
+      }
+    ],
+    "error": false,
+    "updated": "2026-10-23T13:56:52.367085+03:00"
+  },
+  "news": {
+    "items": [
+      {
+        "title": "برنامج Perplexity Computer يعمل الآن محلياً بالكامل على أجهزة ماك",
+        "link": "https://www.tech-wd.com/wd/2026/10/22/%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac-perplexity-computer-%d9%8a%d8%b9%d9%85%d9%84-%d8%a7%d9%84%d8%a2%d9%86-%d9%85%d8%ad%d9%84%d9%8a%d8%a7%d9%8b-%d8%a8%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%84-%d8%b9%d9%84/",
+        "source": "عالم التقنية"
+      },
+      {
+        "title": "جهاز iPad mini 8 قادم بشاشة OLED ومعالج جديد",
+        "link": "https://www.tech-wd.com/wd/2026/10/22/%d8%ac%d9%87%d8%a7%d8%b2-ipad-mini-8-%d9%82%d8%a7%d8%af%d9%85-%d8%a8%d8%b4%d8%a7%d8%b4%d8%a9-oled-%d9%88%d9%85%d8%b9%d8%a7%d9%84%d8%ac-%d8%ac%d8%af%d9%8a%d8%af/",
+        "source": "عالم التقنية"
+      },
+      {
+        "title": "آبل تواجه مطالبات مالية ضخمة بسبب براءات الاختراع",
+        "link": "https://www.tech-wd.com/wd/2026/10/22/%d8%a2%d8%a8%d9%84-%d8%aa%d9%88%d8%a7%d8%ac%d9%87-%d9%85%d8%b7%d8%a7%d9%84%d8%a8%d8%a7%d8%aa-%d9%85%d8%a7%d9%84%d9%8a%d8%a9-%d8%b6%d8%ae%d9%85%d8%a9-%d8%a8%d8%b3%d8%a8%d8%a8-%d8%a8%d8%b1%d8%a7%d8%a1/",
+        "source": "عالم التقنية"
+      },
+      {
+        "title": "Samsung Galaxy S28 قد يعتمد مودم 2 نانومتر لتوفير الطاقة",
+        "link": "https://www.tech-wd.com/wd/2026/10/22/samsung-galaxy-s28-%d9%82%d8%af-%d9%8a%d8%b9%d8%aa%d9%85%d8%af-%d9%85%d9%88%d8%af%d9%85-2-%d9%86%d8%a7%d9%86%d9%88%d9%85%d8%aa%d8%b1-%d9%84%d8%aa%d9%88%d9%81%d9%8a%d8%b1-%d8%a7%d9%84%d8%b7%d8%a7%d9%82/",
+        "source": "عالم التقنية"
+      },
+      {
+        "title": "سلسلة Samsung Galaxy S27 تعيد الذاكرة العشوائية بسعة 8 جيجابايت",
+        "link": "https://www.tech-wd.com/wd/2026/10/22/%d8%b3%d9%84%d8%b3%d9%84%d8%a9-samsung-galaxy-s27-%d8%aa%d8%b9%d9%8a%d8%af-%d8%a7%d9%84%d8%b0%d8%a7%d9%83%d8%b1%d8%a9-%d8%a7%d9%84%d8%b9%d8%b4%d9%88%d8%a7%d8%a6%d9%8a%d8%a9-%d8%a8%d8%b3%d8%b9%d8%a9-8/",
+        "source": "عالم التقنية"
+      },
+      {
+        "title": "ثلاثة أحرف هزّت الإنترنت.. ما قصة ثغرات PHP التي تهدد المواقع حول العالم؟",
+        "link": "https://aitnews.com/2026/10/23/%d8%ab%d9%84%d8%a7%d8%ab%d8%a9-%d8%a3%d8%ad%d8%b1%d9%81-%d9%87%d8%b2%d9%91%d8%aa-%d8%a7%d9%84%d8%a5%d9%86%d8%aa%d8%b1%d9%86%d8%aa-%d9%85%d8%a7-%d9%82%d8%b5%d8%a9-%d8%ab%d8%ba%d8%b1%d8%a7%d8%aa-php/",
+        "source": "البوابة التقنية"
+      },
+      {
+        "title": "بدقة تتجاوز 80%.. مايكروسوفت تطور ذكاءً اصطناعيًا يتفوق على الأطباء في تشخيص الحالات المعقدة",
+        "link": "https://aitnews.com/2026/10/23/%d8%a8%d8%af%d9%82%d8%a9-%d8%aa%d8%aa%d8%ac%d8%a7%d9%88%d8%b2-80-%d9%85%d8%a7%d9%8a%d9%83%d8%b1%d9%88%d8%b3%d9%88%d9%81%d8%aa-%d8%aa%d8%b7%d9%88%d8%b1-%d8%b0%d9%83%d8%a7%d8%a1%d9%8b-%d8%a7%d8%b5/",
+        "source": "البوابة التقنية"
+      },
+      {
+        "title": "بيل غيتس يحذر: العالم مقبل على عقدين من الاضطرابات بسبب الذكاء الاصطناعي",
+        "link": "https://aitnews.com/2026/10/23/%d8%a8%d9%8a%d9%84-%d8%ba%d9%8a%d8%aa%d8%b3-%d9%8a%d8%ad%d8%b0%d8%b1-%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85-%d9%85%d9%82%d8%a8%d9%84-%d8%b9%d9%84%d9%89-%d8%b9%d9%82%d8%af%d9%8a%d9%86-%d9%85%d9%86/",
+        "source": "البوابة التقنية"
+      },
+      {
+        "title": "طفرة في هواتف الألعاب.. هونر تكشف عن هواتف WIN 2 بشاشة ثورية وبطارية ضخمة",
+        "link": "https://aitnews.com/2026/10/22/%d8%b7%d9%81%d8%b1%d8%a9-%d9%81%d9%8a-%d9%87%d9%88%d8%a7%d8%aa%d9%81-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d9%87%d9%88%d9%86%d8%b1-%d8%aa%d9%83%d8%b4%d9%81-%d8%b9%d9%86-%d9%87%d9%88%d8%a7/",
+        "source": "البوابة التقنية"
+      },
+      {
+        "title": "أنثروبيك تسجل خسائر فادحة قدرها 80 مليار دولار قبيل إدراجها في البورصة",
+        "link": "https://aitnews.com/2026/10/22/%d8%a3%d9%86%d8%ab%d8%b1%d9%88%d8%a8%d9%8a%d9%83-%d8%aa%d8%b3%d8%ac%d9%84-%d8%ae%d8%b3%d8%a7%d8%a6%d8%b1-%d9%81%d8%a7%d8%af%d8%ad%d8%a9-%d9%82%d8%af%d8%b1%d9%87%d8%a7-80-%d9%85%d9%84%d9%8a%d8%a7%d8%b1/",
+        "source": "البوابة التقنية"
+      }
+    ],
+    "updated": "2026-10-23T13:56:52.367085+03:00"
+  }
+}
